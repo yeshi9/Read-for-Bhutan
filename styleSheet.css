@@ -1,0 +1,192 @@
+.navbar {
+  overflow: hidden;
+  background-color: #1691B3;
+}
+
+.navbar a {
+  display: inline-block;
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  transition: all 2s ease 0s;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #84DFDE;
+}
+
+h1 {
+  color: #64DA7D;
+  text-shadow: 3px 2px black;
+  font-family: Garamond;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+body {
+  background-image: url("img1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+#title {
+  background-image: url("img2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 140px;
+}
+
+
+h2 {
+  color: #0398AB;
+  font-family: Copperplate;
+  font-size: 30px;
+}
+
+.a {
+  font-family: "Times New Roman", Times,serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+ol {
+  font-family: "Times New Roman", Times,serif;
+  font-size: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+li {
+  font-weight: 600;
+  color: #258456;
+}
+
+img {
+  width:25%;
+  height: 35%;
+}
+
+.logo {
+  width:60%;
+  height: 30%;
+  display: inline-block;
+  color: Darkred;
+  text-align: center;
+  text-shadow: 0px 1px black;
+  font-size: 30px;
+}
+
+#aboutMe {
+  background-image: url("img12.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed 100% 100%;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.one {
+background-color: #BD49AB;
+  color: #31B1B5;
+  text-shadow: 3px 2px black;
+  font-family: Garamond;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#contactUs {
+  background-image: url("img11.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+#pro {
+  background-image: url("img14.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.two {
+  background-color: #BD49AB;
+  color: #31B1B5;
+  text-shadow: 3px 2px black;
+  font-family: Garamond;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.three {
+  font-family: "Times New Roma", serif;
+  font-size: 20px;
+}
+
+#download {
+  font-size: 20px;
+  text-align: center;
+}
+
+.footerbar {
+  overflow: hidden;
+  background-color: #1691B3;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footerbar a {
+  display: block;
+  float: right;
+  font-size: 16px;
+  color: black;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.footerbar a:hover {
+  background-color: #84DFDE;
+}
+
+.box {
+  font-family: "Times New Roman", Times,serif;
+  font-size: 20px;
+}
+
+.submit{
+  font-family: "Times New Roman", Times,serif;
+  font-size: 10px;
+}
+
+.b {
+  font-family: "Times New Roman", Times,serif;
+  font-size: 30px;
+}
